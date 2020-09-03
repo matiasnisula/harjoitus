@@ -3,3 +3,4 @@ maitoa
 piimää
 leipää
 keksit
+Peruna
