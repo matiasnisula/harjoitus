@@ -1,2 +1,2 @@
 Tämä on tarina
-. Tarinan päähenkilö on Ville, joka on 20-vuotias
+. Tarinan päähenkilö on Ville, joka on 20-vuotias. Ville harrastaa jalkapalloa.
