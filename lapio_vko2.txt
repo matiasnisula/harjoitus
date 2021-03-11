@@ -4,4 +4,4 @@ Uusi rivi tekstiä, lisäys
 Uusi rivi tekstiä
 toine rivi
 >>>>>>> Stashed changes
-merge-konflikti
+terveisiä mun koneelta ja GitHubista
